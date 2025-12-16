@@ -1,0 +1,7 @@
+id=migsk_auto_off
+name=Auto Shutdown at 3% Battery
+version=v1.0
+versionCode=1
+author=miniworldRuman
+description=Monitors battery level and initiates shutdown countdown when battery reaches 3%.
+minMagisk=23000
